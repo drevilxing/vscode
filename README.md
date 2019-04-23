@@ -21,7 +21,7 @@ The [`vscode`](https://github.com/microsoft/vscode) repository is where VS Code 
 * Review [source code changes](https://github.com/microsoft/vscode/pulls).
 * Review the [documentation](https://github.com/microsoft/vscode-docs) and make pull requests for anything from typos to new content.
 
-## Contributing
+# Contributing
 
 If you are interested in fixing issues and contributing directly to the code base,
 please see the document [How to Contribute](https://github.com/Microsoft/vscode/wiki/How-to-Contribute), which covers the following:
