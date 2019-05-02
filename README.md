@@ -1,4 +1,4 @@
-# Visual Studio Code - Open Source
+# Visual Studio Code - In Preparation
 
 <!-- [![Build Status](https://dev.azure.com/vscode/VSCode/_apis/build/status/VS%20Code?branchName=master)](https://aka.ms/vscode-builds) -->
 
@@ -53,8 +53,6 @@ For a complete list, please visit the [Related Projects](https://github.com/Micr
 Code ships with a set of extensions. These extensions are located in the [extensions](extensions) folder.
 These extensions include grammars and snippets for several languages. Extensions that provide rich language support (code completion, go to definition) for a language have the suffix 'language-features'. For example, the 'json' extension provides coloring for JSON and the 'json-language-features' provides rich language support for JSON.
 
-## License
+## Goal
 
-Copyright (c) Microsoft Corporation. All rights reserved.
-
-Licensed under the [MIT](LICENSE.txt) License.
+UML and UML IOT diagram extensions are to be analysized. 
